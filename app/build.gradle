@@ -17,11 +17,11 @@ plugins {
 }
 
 android {
-    namespace 'com.nikolovlazar.goodbyemoney'
+    namespace 'com.thbt.goodbyemoney'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.nikolovlazar.goodbyemoney"
+        applicationId "com.thbt.goodbyemoney"
         minSdk 28
         targetSdk 33
         versionCode 1

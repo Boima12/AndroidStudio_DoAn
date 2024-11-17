@@ -11,6 +11,8 @@ import com.thbt.goodbyemoney.components.ReportPage
 import com.thbt.goodbyemoney.models.Recurrence
 import com.thbt.goodbyemoney.ui.theme.TopAppBarBackground
 import com.thbt.goodbyemoney.viewmodels.ReportsViewModel
+import com.thbt.goodbyemoney.R
+
 
 @OptIn(ExperimentalMaterial3Api::class, ExperimentalPagerApi::class)
 @Composable

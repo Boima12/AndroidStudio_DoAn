@@ -11,6 +11,8 @@ import androidx.compose.ui.unit.dp
 import com.thbt.goodbyemoney.ui.theme.Destructive
 import com.thbt.goodbyemoney.ui.theme.TextPrimary
 import com.thbt.goodbyemoney.ui.theme.Typography
+import com.thbt.goodbyemoney.R
+
 
 @Composable
 fun TableRow(
